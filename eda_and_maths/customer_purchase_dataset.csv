@@ -1,0 +1,526 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases
+CUST0001,40.0,female,Pants,Clothing,220.66,New York,XL,Red,Fall,3.0,Yes,Same-Day,Yes,Yes,2.0,Credit Card,Weekly
+CUST0002,33.0,Female,Pants,Clothing,214.51,Houston,XL,Black,Spring,3.0,No,Same-Day,No,No,0.0,Apple Pay,Monthly
+CUST0003,42.0,Female,Shoes,Footwear,176.53,New York,S,White,Winter,2.0,Yes,Standard,No,Yes,6.0,Debit Card,Fortnightly
+CUST0004,53.0,Male,Dress,Clothing,128.4,Los Angeles,XL,Red,Spring,4.0,Yes,Standard,Yes,No,10.0,Google Pay,Weekly
+CUST0005,32.0,Female,Dress,Clothing,187.68,Miami,S,Red,Spring,4.0,Yes,Express,Yes,No,4.0,Apple Pay,Weekly
+CUST0006,32.0,Male,Jacket,Clothing,279.06,Miami,L,Red,Fall,3.0,No,Same-Day,Yes,No,8.0,Debit Card,Fortnightly
+CUST0007,53.0,Male,Jacket,,338.67,Miami,L,Red,Spring,5.0,Yes,Express,No,Yes,8.0,Debit Card,Weekly
+CUST0008,44.0,Female,Bag,Accessories,25.77,Houston,XL,Green,Fall,3.0,No,Express,Yes,No,1.0,Apple Pay,Fortnightly
+CUST0009,29.0,Male,Bag,Accessories,118.58,Chicago,XL,Yellow,Winter,4.0,Yes,Same-Day,No,Yes,2.0,Apple Pay,Fortnightly
+CUST0010,41.0,Male,Shirt,Clothing,113.87,Chicago,M,Green,Winter,2.0,Yes,Same-Day,Yes,Yes,8.0,Debit Card,Fortnightly
+CUST0011,29.0,Male,Pants,Clothing,271.99,New York,XL,Green,Spring,3.0,No,Same-Day,No,Yes,5.0,Debit Card,Monthly
+CUST0012,29.0,Male,Jacket,Clothing,10.0,Houston,M,White,Summer,3.0,Yes,Standard,No,No,1.0,Debit Card,Fortnightly
+CUST0013,37.0,Female,Dress,Clothing,188.54,Miami,L,White,Fall,4.0,Yes,Standard,No,No,3.0,Apple Pay,Weekly
+CUST0014,18.0,Male,Shoes,Footwear,130.74,Miami,L,Yellow,Fall,3.0,,Express,Yes,No,6.0,Debit Card,Monthly
+CUST0015,18.0,Female,Dress,Clothing,272.86,Los Angeles,S,White,Spring,3.0,Yes,Standard,Yes,Yes,3.0,Credit Card,Weekly
+CUST0016,28.0,Female,Pants,Clothing,262.58,Los Angeles,L,Blue,Fall,4.0,No,Same-Day,Yes,No,0.0,Apple Pay,Monthly
+CUST0017,22.0,Male,Bag,Accessories,177.41,Miami,M,Yellow,Fall,3.0,No,Same-Day,No,No,4.0,Credit Card,Monthly
+CUST0018,38.0,Female,Dress,Clothing,31.52,Miami,XL,White,Summer,2.0,No,Standard,No,No,4.0,PayPal,Monthly
+CUST0019,24.0,Female,Shirt,Clothing,106.96,Houston,S,Yellow,Summer,5.0,No,Express,Yes,No,5.0,Apple Pay,Monthly
+CUST0020,18.0,Female,Pants,Clothing,115.17,Chicago,M,Green,Spring,5.0,No,Express,No,No,9.0,PayPal,Weekly
+CUST0021,52.0,Male,Bag,Accessories,50.52,Los Angeles,XL,Green,Summer,2.0,Yes,Standard,No,Yes,5.0,Debit Card,Fortnightly
+CUST0022,32.0,Female,Shoes,Footwear,236.59,Chicago,S,Yellow,Spring,4.0,Yes,Express,No,Yes,6.0,Debit Card,Weekly
+CUST0023,35.0,Female,Bag,Accessories,40.99,Houston,L,Blue,Winter,3.0,Yes,Express,Yes,Yes,8.0,Google Pay,Fortnightly
+CUST0024,18.0,Female,Shirt,Clothing,297.4,Miami,M,Blue,Spring,4.0,No,Express,No,Yes,5.0,Debit Card,Weekly
+CUST0025,28.0,Male,Pants,Clothing,297.21,Chicago,XL,Yellow,Winter,4.0,No,Same-Day,Yes,No,11.0,PayPal,Monthly
+CUST0026,36.0,female,Shoes,Footwear,-121.12,Miami,S,White,Spring,3.0,No,Same-Day,Yes,Yes,1.0,Debit Card,Monthly
+CUST0027,21.0,Male,Shirt,Clothing,174.64,Miami,S,Black,Fall,3.0,No,Standard,Yes,No,2.0,Apple Pay,Fortnightly
+CUST0028,,Male,Bag,Accessories,144.58,New York,L,Blue,Summer,3.0,Yes,Same-Day,Yes,Yes,7.0,Debit Card,Fortnightly
+CUST0029,27.0,Male,Shirt,Clothing,217.64,Chicago,XL,Red,Winter,3.0,Yes,Express,Yes,Yes,9.0,Google Pay,Weekly
+CUST0030,31.0,Male,Pants,Unknown,245.6,Chicago,L,Green,Spring,,No,Same-Day,No,Yes,4.0,Debit Card,Fortnightly
+CUST0031,27.0,Male,Jacket,Clothing,169.35,Miami,L,Yellow,Summer,3.0,No,Standard,Yes,No,2.0,PayPal,Weekly
+CUST0032,57.0,male,Shirt,Clothing,185.18,Houston,XL,Red,Spring,3.0,Yes,,Yes,No,10.0,PayPal,Fortnightly
+CUST0033,34.0,Female,Shirt,Clothing,103.45,New York,XL,Yellow,Summer,4.0,No,Express,Yes,Yes,3.0,Debit Card,Fortnightly
+CUST0034,22.0,Male,Bag,Unknown,182.75,Miami,XL,Green,Summer,5.0,No,Express,No,No,6.0,PayPal,Fortnightly
+CUST0035,44.0,Female,Bag,Accessories,162.21,Los Angeles,M,Green,Spring,3.0,No,Standard,No,Yes,9.0,PayPal,Monthly
+CUST0036,20.0,Female,Shoes,Footwear,81.62,Los Angeles,XL,Blue,Winter,4.0,Yes,Same-Day,No,Yes,4.0,Google Pay,Monthly
+CUST0037,37.0,Male,Bag,Accessories,148.95,New York,S,Blue,Winter,4.0,Yes,Same-Day,No,Yes,3.0,Apple Pay,Weekly
+CUST0038,18.0,Female,Dress,Clothing,121.26,Houston,L,Red,Fall,4.0,No,Same-Day,Yes,No,3.0,Google Pay,Fortnightly
+CUST0039,19.0,Female,Pants,Clothing,104.29,Miami,M,Yellow,Summer,4.0,Yes,Express,Yes,Yes,8.0,Credit Card,Weekly
+CUST0040,37.0,Female,Pants,Unknown,64.01,Chicago  ,XL,Green,Fall,4.0,No,Standard,No,Yes,8.0,Google Pay,Fortnightly
+CUST0041,43.0,Female,Jacket,,154.69,New York,M,Red,Fall,4.0,No,Same-Day,No,Yes,5.0,Debit Card,Monthly
+CUST0042,37.0,Male,Jacket,Clothing,91.46,Houston,XL,Black,Spring,2.0,Yes,Express,No,No,11.0,Apple Pay,Monthly
+CUST0043,33.0,Female,Pants,,114.67,Chicago,M,Red,Spring,4.0,No,Express,No,Yes,5.0,Debit Card,Fortnightly
+CUST0044,31.0,Male,Jacket,Clothing,230.63,Los Angeles,L,White,Spring,4.0,No,Express,Yes,No,9.0,Credit Card,Fortnightly
+CUST0045,18.0,female,Shoes,Footwear,197.41,Los Angeles,L,Red,Summer,3.0,Yes,Same-Day,No,Yes,4.0,Apple Pay,Monthly
+CUST0046,26.0,Female,Bag,Accessories,76.59,Chicago,,White,Spring,4.0,No,Same-Day,No,No,12.0,PayPal,Monthly
+CUST0047,29.0,Male,Pants,Clothing,176.39,New York,S,White,Spring,4.0,No,Same-Day,No,Yes,10.0,Google Pay,Weekly
+CUST0048,47.0,Female,Jacket,Clothing,159.96,Los Angeles,XL,White,Summer,3.0,No,,No,Yes,5.0,Debit Card,Monthly
+CUST0049,39.0,Female,Pants,Clothing,277.63,Miami,L,Black,,5.0,Yes,Same-Day,No,No,9.0,Credit Card,Fortnightly
+CUST0050,18.0,Female,Dress,Clothing,253.74,Chicago,M,Red,Winter,5.0,No,Same-Day,No,No,9.0,,Weekly
+CUST0051,38.0,Male,Shirt,Clothing,34.97,Chicago,M,Red,Spring,3.0,Yes,Same-Day,No,Yes,10.0,Google Pay,Fortnightly
+CUST0052,30.0,Female,Bag,Accessories,214.58,Los Angeles,M,Black,,2.0,No,Same-Day,Yes,No,0.0,PayPal,Weekly
+CUST0053,26.0,Male,Pants,Clothing,244.89,New York,S,Green,Spring,4.0,No,Same-Day,Yes,Yes,7.0,Google Pay,Fortnightly
+CUST0054,42.0,Female,Shirt,Clothing,191.95,Miami,M,Blue,Winter,4.0,No,Express,Yes,Yes,7.0,Apple Pay,Monthly
+CUST0055,47.0,Male,Jacket,Clothing,124.84,New York,S,Red,Spring,3.0,No,Same-Day,Yes,Yes,6.0,PayPal,Fortnightly
+CUST0056,46.0,Male,Shirt,Clothing,331.0,Houston,S,Blue,Winter,5.0,Yes,Standard,Yes,No,6.0,PayPal,Weekly
+CUST0057,24.0,Female,Bag,Accessories,198.86,Houston,XL,Yellow,Fall,2.0,Yes,Express,Yes,Yes,6.0,PayPal,Fortnightly
+CUST0058,31.0,Female,Pants,Clothing,298.24,Los Angeles,M,Yellow,Winter,4.0,No,Same-Day,No,No,9.0,Apple Pay,Weekly
+CUST0059,38.0,Male,Dress,Clothing,251.36,Los Angeles,M,Black,Fall,3.0,No,Standard,No,Yes,7.0,Credit Card,Fortnightly
+CUST0060,46.0,Male,Jacket,Clothing,184.81,Los Angeles,L,Yellow,Spring,5.0,No,Same-Day,Yes,No,6.0,Google Pay,Monthly
+CUST0061,29.0,female,Pants,Clothing,106.52,Houston,XL,Yellow,Fall,5.0,No,Standard,No,No,8.0,PayPal,Monthly
+CUST0062,32.0,Male,Bag,Accessories,148.19,New York,L,Green,Winter,3.0,No,Standard,Yes,Yes,6.0,Apple Pay,Fortnightly
+CUST0063,21.0,Female,Jacket,Clothing,133.36,New York,XL,Green,Summer,3.0,No,Standard,No,No,7.0,Credit Card,Fortnightly
+CUST0064,20.0,Female,Shoes,Footwear,58.91,Los Angeles,M,Green,Fall,4.0,No,Standard,No,Yes,11.0,Google Pay,Fortnightly
+CUST0065,44.0,Female,Shirt,Clothing,198.77,Miami,S,Yellow,Fall,3.0,No,Express,No,Yes,4.0,Apple Pay,Weekly
+CUST0066,51.0,female,Bag,Accessories,267.55,New York,S,Black,Spring,3.0,Yes,Express,No,Yes,0.0,Google Pay,Fortnightly
+,34.0,Male,Shoes,Footwear,127.63,Houston,S,White,Winter,4.0,Yes,Standard,,Yes,5.0,PayPal,Fortnightly
+CUST0068,47.0,female,Pants,Clothing,312.27,Chicago,S,White,Fall,2.0,Yes,,No,Yes,6.0,Credit Card,Weekly
+CUST0069,39.0,Male,Dress,Clothing,33.18,Chicago,S,Blue,Fall,3.0,No,Standard,Yes,No,7.0,Apple Pay,Monthly
+CUST0070,27.0,Female,Jacket,Clothing,229.08,Chicago,L,White,Fall,3.0,No,Express,Yes,Yes,5.0,Credit Card,Fortnightly
+,39.0,Male,Shirt,Clothing,275.36,Miami,XL,White,Fall,3.0,No,Same-Day,No,No,7.0,PayPal,Fortnightly
+CUST0072,53.0,Female,Jacket,Clothing,134.7,Los Angeles,M,Green,Summer,5.0,Yes,Express,Yes,No,13.0,Credit Card,Monthly
+CUST0073,34.0,Male,Pants,Clothing,136.05,Houston,L,Green,Winter,2.0,No,Express,No,Yes,7.0,Credit Card,Monthly
+CUST0074,53.0,Male,Jacket,Clothing,228.21,Miami,XL,Yellow,Spring,4.0,Yes,Same-Day,Yes,No,8.0,Debit Card,Weekly
+CUST0075,18.0,Female,Shirt,Clothing,187.95,Houston,S,Blue,Spring,3.0,No,Standard,No,Yes,5.0,Credit Card,Fortnightly
+CUST0076,44.0,Female,Pants,Clothing,,Houston  ,XL,Red,Summer,3.0,Yes,Standard,Yes,No,1.0,Google Pay,Fortnightly
+CUST0077,36.0,Female,Jacket,Clothing,86.75,Los Angeles,XL,Blue,Winter,4.0,Yes,Standard,No,No,0.0,Apple Pay,Weekly
+CUST0078,31.0,Female,Dress,Clothing,148.98,Chicago,S,Blue,Fall,4.0,Yes,Standard,Yes,No,3.0,Debit Card,Monthly
+CUST0079,36.0,Male,Bag,Accessories,47.27,Los Angeles,S,Black,Summer,4.0,No,Same-Day,No,,0.0,,Weekly
+CUST0080,18.0,Female,Pants,Clothing,114.44,Miami,S,Yellow,Winter,4.0,Yes,Same-Day,Yes,No,7.0,Apple Pay,Monthly
+,32.0,Male,Bag,Accessories,49.15,Miami,M,Black,Fall,3.0,No,Same-Day,No,Yes,4.0,PayPal,Weekly
+CUST0082,39.0,Male,Pants,Clothing,122.24,Miami,S,Blue,Summer,3.0,No,Express,No,No,1.0,PayPal,Monthly
+CUST0083,52.0,Female,Dress,Clothing,124.75,Los Angeles,M,Blue,Winter,2.0,No,Same-Day,No,No,5.0,Debit Card,Weekly
+CUST0084,28.0,Male,Bag,Accessories,176.38,Houston,S,Blue,Spring,3.0,No,Standard,Yes,No,3.0,PayPal,Monthly
+CUST0085,25.0,Male,Shoes,Footwear,143.12,Houston,M,White,Spring,Five,No,Express,Yes,No,6.0,PayPal,Monthly
+CUST0086,,Male,Shirt,Clothing,187.71,New York,XL,Black,Winter,5.0,Yes,Standard,Yes,Yes,7.0,PayPal,Monthly
+CUST0087,45.0,Male,Shoes,Footwear,178.77,Miami,L,Blue,Spring,2.0,No,Standard,No,Yes,3.0,Apple Pay,Monthly
+CUST0088,38.0,female,Jacket,Clothing,227.35,Houston,XL,Green,Winter,2.0,No,Same-Day,Yes,No,4.0,Debit Card,Monthly
+CUST0089,28.0,Female,Dress,Clothing,215.53,New York,XL,Yellow,Fall,4.0,No,Same-Day,No,No,6.0,Apple Pay,Fortnightly
+CUST0090,41.0,Female,Shoes,Footwear,207.61,Houston,S,Yellow,Winter,4.0,No,Standard,Yes,Yes,1.0,Google Pay,Monthly
+CUST0091,36.0,Female,Pants,Clothing,382.87,Miami,M,Green,Fall,4.0,No,Standard,Yes,Yes,6.0,Apple Pay,Fortnightly
+CUST0092,,Male,Jacket,Clothing,176.06,Chicago,L,Yellow,Summer,3.0,Yes,Express,Yes,,1.0,,Monthly
+CUST0093,26.0,Male,Jacket,Clothing,344.52,Miami,S,White,Winter,3.0,Yes,Same-Day,Yes,Yes,7.0,Credit Card,Fortnightly
+CUST0094,31.0,Female,Shoes,Footwear,180.92,Los Angeles,S,White,Summer,Five,No,Express,No,No,4.0,Credit Card,Fortnightly
+CUST0095,30.0,Female,Shoes,Footwear,143.79,Houston,S,Red,Spring,4.0,Yes,Express,Yes,No,1.0,Google Pay,Weekly
+CUST0096,18.0,Female,Dress,Clothing,122.01,Houston  ,XL,Red,Fall,1.0,Yes,Express,Yes,Yes,3.0,Google Pay,Monthly
+CUST0097,38.0,male,Shirt,Clothing,263.23,Los Angeles,M,Red,Winter,3.0,No,Standard,No,Yes,3.0,Apple Pay,Weekly
+CUST0098,38.0,Female,Shoes,Footwear,273.04,Los Angeles,M,Yellow,Summer,3.0,Yess,Express,No,Yes,8.0,Google Pay,Weekly
+CUST0099,35.0,Female,Shoes,Footwear,194.98,Chicago,L,White,Fall,4.0,No,Express,Yes,Yes,6.0,Debit Card,Monthly
+CUST0100,32.0,Female,Bag,Accessories,235.02,Houston,M,White,Fall,Five,Yes,Standard,Yes,Yes,2.0,Credit Card,Weekly
+CUST0101,18.0,Male,Pants,Clothing,54.21,Houston,M,White,Spring,4.0,Yes,Same-Day,No,Yes,10.0,Credit Card,Monthly
+CUST0102,29.0,Male,Bag,Accessories,33.84,Chicago,S,Green,Spring,3.0,Yes,Same-Day,No,No,7.0,Google Pay,Weekly
+CUST0103,30.0,Male,Bag,Accessories,243.47,New York,S,White,Fall,4.0,No,Express,No,No,4.0,PayPal,Monthly
+CUST0104,25.0,Male,Jacket,Clothing,140.49,Chicago,XL,Green,Fall,4.0,Yes,Standard,Yes,No,0.0,PayPal,Monthly
+CUST0105,33.0,Male,Shirt,Clothing,206.2,Miami,S,Red,Winter,4.0,Yes,Same-Day,Yes,Yes,4.0,Google Pay,Monthly
+CUST0106,39.0,Male,Pants,Clothing,96.2,Houston,S,Red,Fall,4.0,No,Express,Yes,Yes,4.0,Debit Card,Fortnightly
+CUST0107,57.0,Male,Dress,Clothing,274.27,Los Angeles,S,Yellow,Winter,5.0,Yess,Express,No,Yes,6.0,PayPal,Weekly
+CUST0108,37.0,Male,Dress,Clothing,34.47,Miami,S,Red,Fall,2.0,Yes,Standard,No,No,7.0,Google Pay,Fortnightly
+CUST0109,38.0,Female,Shoes,Footwear,46.08,Houston,XL,Yellow,Spring,4.0,No,Express,No,Yes,7.0,Debit Card,Weekly
+CUST0110,34.0,Female,Shoes,Footwear,258.32,Chicago,S,Blue,Winter,3.0,Yes,Same-Day,Yes,Yes,0.0,Debit Card,Weekly
+CUST0111,18.0,Male,Dress,Clothing,10.0,Miami,L,Blue,Summer,4.0,Yes,Standard,No,No,6.0,Apple Pay,Weekly
+CUST0112,34.0,Male,Shoes,Footwear,178.39,Houston,L,Black,Spring,3.0,No,Same-Day,Yes,Yes,5.0,Debit Card,Fortnightly
+CUST0113,35.0,Female,Shirt,Clothing,141.95,New York,L,Yellow,Winter,3.0,No,Same-Day,No,No,13.0,PayPal,Weekly
+CUST0114,64.0,Male,Bag,Accessories,-94.8,New York  ,L,Black,Winter,3.0,No,Same-Day,Yes,No,5.0,PayPal,Fortnightly
+CUST0115,32.0,Male,Shoes,Footwear,135.0,Los Angeles,S,Black,Summer,4.0,Yes,Express,Yes,Yes,3.0,Google Pay,Monthly
+CUST0116,38.0,Male,Jacket,Clothing,86.44,Houston,L,Blue,Winter,4.0,No,Express,No,No,5.0,Google Pay,Weekly
+CUST0117,34.0,Female,Shoes,Footwear,265.67,New York,S,Yellow,Fall,2.0,Yes,Same-Day,Yes,Yes,5.0,Debit Card,Weekly
+CUST0118,20.0,Female,Pants,Clothing,285.34,Chicago,XL,Blue,Summer,4.0,No,Same-Day,No,No,0.0,Credit Card,Monthly
+CUST0119,48.0,Female,Shirt,Clothing,98.57,Houston,L,Black,,3.0,Yes,Standard,Yes,Yes,6.0,Apple Pay,Monthly
+CUST0120,44.0,Female,Pants,Clothing,170.66,Chicago,M,Yellow,Spring,2.0,No,Standard,No,No,4.0,Credit Card,Weekly
+CUST0121,44.0,Female,Pants,Clothing,50.62,Chicago,L,Black,Fall,3.0,Yess,Express,No,Yes,5.0,Debit Card,Monthly
+CUST0122,24.0,Male,Jacket,Clothing,230.48,New York,L,White,Spring,3.0,No,Express,Yes,No,2.0,Debit Card,Fortnightly
+CUST0123,51.0,Female,Shirt,Clothing,228.53,Houston,S,Yellow,Winter,5.0,Yes,Standard,No,,2.0,,Fortnightly
+,18.0,Male,Shirt,Clothing,127.86,Miami,L,Yellow,Winter,4.0,Yess,Same-Day,Yes,No,8.0,Apple Pay,Weekly
+CUST0125,42.0,Male,Shirt,Clothing,151.27,New York,M,Black,Fall,2.0,No,Express,No,Yes,8.0,Credit Card,Fortnightly
+CUST0126,61.0,Female,Shirt,Clothing,142.97,New York,S,White,Spring,3.0,Yes,Same-Day,No,Yes,6.0,Google Pay,Fortnightly
+CUST0127,23.0,Female,Shirt,Clothing,28.62,Houston,S,Green,Spring,5.0,No,Standard,No,No,0.0,PayPal,Weekly
+CUST0128,28.0,Male,Jacket,Clothing,265.95,Houston,XL,Blue,Fall,5.0,Yes,Express,No,Yes,6.0,Google Pay,Monthly
+CUST0129,36.0,Male,Shoes,Footwear,92.48,Chicago,XL,Black,Summer,2.0,Yes,Express,Yes,No,0.0,PayPal,Weekly
+CUST0130,28.0,Male,Pants,Clothing,92.99,Houston,L,Yellow,Spring,2.0,No,Standard,No,Yes,3.0,Debit Card,Fortnightly
+CUST0131,18.0,Female,Shirt,Clothing,138.72,Chicago,XL,Blue,Summer,5.0,Yes,Express,No,No,8.0,Apple Pay,Weekly
+CUST0132,35.0,Female,Shoes,Footwear,224.67,New York,XL,Blue,Spring,4.0,No,Standard,Yes,Yes,7.0,Credit Card,Weekly
+CUST0133,22.0,Female,Shoes,Footwear,105.65,Los Angeles,XL,Blue,Spring,3.0,No,Express,Yes,No,6.0,Apple Pay,Fortnightly
+CUST0134,40.0,Female,Pants,Clothing,10.0,Miami,S,Green,Spring,4.0,Yes,Standard,Yes,No,9.0,Credit Card,Fortnightly
+CUST0135,23.0,Female,Jacket,Clothing,83.48,New York,S,Red,Spring,1.0,No,Express,Yes,No,7.0,Google Pay,Weekly
+CUST0136,53.0,Male,Dress,Clothing,181.81,Houston,S,Black,Winter,4.0,Yes,Same-Day,Yes,No,0.0,Google Pay,Fortnightly
+CUST0137,25.0,Female,Dress,Clothing,314.23,Miami,XL,Red,Summer,4.0,Yes,Same-Day,Yes,Yes,4.0,Credit Card,Fortnightly
+CUST0138,31.0,Male,Shoes,Footwear,55.51,Los Angeles,S,Red,Summer,4.0,No,Same-Day,No,No,5.0,Apple Pay,Fortnightly
+CUST0139,44.0,Male,Bag,Accessories,52.76,Los Angeles,XL,Red,Spring,2.0,No,Express,Yes,Yes,5.0,Credit Card,Fortnightly
+CUST0140,20.0,Male,Bag,Accessories,36.56,Chicago,S,Blue,Spring,4.0,Yes,Express,No,Yes,3.0,Debit Card,Fortnightly
+CUST0141,37.0,Female,Pants,Clothing,27.25,Miami,S,White,Summer,3.0,Yes,Same-Day,Yes,No,2.0,Google Pay,Fortnightly
+CUST0142,50.0,Female,Dress,Clothing,240.43,Chicago,M,Blue,Winter,4.0,No,Same-Day,No,Yes,12.0,Debit Card,Monthly
+CUST0143,18.0,Female,Shoes,Footwear,262.1,New York,L,Blue,Fall,3.0,No,Standard,No,Yes,4.0,Google Pay,Weekly
+CUST0144,37.0,Male,Jacket,Clothing,163.33,Miami,XL,Yellow,Fall,3.0,No,Standard,No,Yes,12.0,Google Pay,Fortnightly
+CUST0145,38.0,Male,Dress,Clothing,114.92,New York,M,Yellow,Summer,3.0,No,Standard,Yes,No,2.0,PayPal,Weekly
+CUST0146,44.0,Male,Shoes,Footwear,284.34,Chicago,S,Red,Spring,4.0,Yes,Same-Day,Yes,Yes,7.0,Debit Card,Monthly
+CUST0147,20.0,,,Footwear,163.04,Miami,XL,Blue,Spring,4.0,No,Same-Day,Yes,Yes,6.0,Debit Card,Fortnightly
+CUST0148,19.0,male,Shirt,Clothing,-231.71,Chicago,S,Red,Winter,3.0,Yes,Same-Day,Yes,No,2.0,PayPal,Weekly
+CUST0149,41.0,Male,Jacket,Clothing,111.27,Miami,L,Yellow,Fall,4.0,Yes,Standard,No,No,4.0,Apple Pay,Fortnightly
+CUST0150,38.0,Female,Shirt,Clothing,153.32,Chicago,M,White,Winter,2.0,No,Express,,Yes,5.0,Debit Card,Fortnightly
+CUST0151,38.0,Female,Pants,Clothing,57.2,Los Angeles,L,Black,Fall,3.0,Yes,Same-Day,No,No,2.0,Credit Card,Fortnightly
+CUST0152,39.0,Female,Shirt,Clothing,197.19,Chicago,M,Red,Summer,3.0,No,Express,No,Yes,4.0,PayPal,Fortnightly
+,26.0,Female,Shirt,Clothing,164.32,Los Angeles,S,White,Fall,5.0,Yes,Express,Yes,Yes,0.0,Debit Card,Fortnightly
+CUST0154,37.0,male,Dress,Clothing,82.91,Chicago,L,Black,Winter,2.0,No,Express,Yes,Yes,7.0,Apple Pay,Fortnightly
+CUST0155,38.0,Male,Bag,Accessories,83.92,Miami,L,Green,Winter,5.0,Yes,Standard,Yes,No,9.0,Debit Card,Fortnightly
+CUST0156,26.0,Female,Shoes,Footwear,271.2,Miami,S,Red,Winter,4.0,Yes,Express,No,Yes,6.0,Google Pay,Monthly
+CUST0157,57.0,Male,Jacket,Clothing,297.88,Miami,L,Red,Summer,4.0,No,Same-Day,Yes,No,12.0,Credit Card,Monthly
+CUST0158,40.0,Female,Shirt,Clothing,134.01,Houston,XL,Green,Fall,5.0,No,Standard,No,No,7.0,PayPal,Fortnightly
+CUST0159,20.0,Female,Jacket,Clothing,155.08,New York,M,Green,Fall,4.0,Yes,Same-Day,Yes,Yes,8.0,Google Pay,Fortnightly
+CUST0160,42.0,Female,Bag,Accessories,180.01,Miami,M,Red,Winter,4.0,Yes,Same-Day,No,No,9.0,Apple Pay,Monthly
+CUST0161,23.0,Male,Bag,Accessories,161.1,Los Angeles,M,Green,Fall,3.0,No,Standard,Yes,No,0.0,Google Pay,Monthly
+CUST0162,44.0,Female,Shirt,Clothing,24.43,Miami,XL,Blue,Spring,5.0,Yes,Same-Day,Yes,No,6.0,Google Pay,Monthly
+CUST0163,48.0,Female,Pants,Clothing,182.09,Houston,M,Black,Spring,5.0,No,Same-Day,No,No,1.0,Apple Pay,Fortnightly
+CUST0164,25.0,Female,Shirt,Clothing,10.0,Los Angeles,S,Black,Spring,3.0,Yes,Standard,Yes,No,1.0,Google Pay,Weekly
+CUST0165,46.0,Male,Dress,Clothing,95.05,Houston,L,Black,Fall,2.0,No,Same-Day,Yes,Yes,2.0,PayPal,Weekly
+CUST0166,39.0,Male,Shoes,Footwear,187.91,Los Angeles,XL,Blue,Summer,,Yes,Express,Yes,No,4.0,Debit Card,Weekly
+CUST0167,44.0,Female,Pants,Clothing,195.0,Chicago,M,Green,Summer,3.0,No,Same-Day,Yes,Yes,7.0,Google Pay,Weekly
+CUST0168,57.0,Male,Shirt,,89.24,New York,S,White,Summer,3.0,No,Express,Yes,Yes,6.0,PayPal,Fortnightly
+CUST0169,32.0,Male,Jacket,Clothing,115.62,New York,L,Green,Summer,5.0,Yes,Same-Day,Yes,Yes,5.0,Debit Card,Weekly
+CUST0170,25.0,Male,Pants,Clothing,105.46,Houston,L,Red,Spring,3.0,No,Standard,Yes,Yes,7.0,Debit Card,Monthly
+CUST0171,24.0,Male,Pants,Clothing,142.29,New York,XL,Yellow,Spring,3.0,Yes,Standard,No,Yes,7.0,Google Pay,Monthly
+CUST0172,25.0,Male,Shirt,Clothing,147.99,Houston,XL,Black,Winter,4.0,No,Same-Day,No,Yes,6.0,PayPal,Weekly
+CUST0173,,Male,Pants,Clothing,200.14,Houston,XL,Green,Fall,4.0,No,Standard,Yes,No,0.0,Google Pay,Monthly
+CUST0174,39.0,Male,Jacket,Clothing,111.23,Houston,S,White,Fall,1.0,No,Same-Day,Yes,No,3.0,Apple Pay,Fortnightly
+CUST0175,38.0,Male,Bag,Accessories,178.0,New York,S,Red,Summer,3.0,Yes,Standard,Yes,No,5.0,Debit Card,Weekly
+CUST0176,44.0,Male,Pants,Clothing,188.03,Houston,XL,Blue,Spring,4.0,No,Express,No,Yes,7.0,Google Pay,Weekly
+CUST0177,35.0,Male,Bag,Accessories,164.87,New York,M,Blue,Summer,5.0,Yes,Same-Day,No,No,1.0,Debit Card,Fortnightly
+CUST0178,52.0,Female,Jacket,Clothing,130.53,Houston,L,White,Winter,3.0,No,Express,Yes,No,5.0,PayPal,Monthly
+CUST0179,31.0,Female,Shirt,Clothing,163.55,Miami,L,Red,Fall,Five,Yes,Express,No,No,0.0,Credit Card,Fortnightly
+CUST0180,65.0,Male,Shoes,Footwear,206.38,Houston,S,Black,Fall,4.0,Yes,Same-Day,Yes,Yes,8.0,Google Pay,Fortnightly
+CUST0181,42.0,Female,Pants,Clothing,-212.94,Los Angeles,L,Green,Summer,3.0,Yes,Express,Yes,No,6.0,Google Pay,Monthly
+CUST0182,24.0,Female,Shoes,Footwear,286.15,Houston,M,Red,Winter,2.0,No,Same-Day,Yes,Yes,1.0,Debit Card,Fortnightly
+CUST0183,22.0,Male,Jacket,Clothing,75.75,Chicago,L,Blue,Fall,3.0,Yes,Express,Yes,No,1.0,PayPal,Monthly
+CUST0184,40.0,Male,Pants,Clothing,117.0,Houston,S,White,Winter,3.0,No,Same-Day,No,Yes,6.0,Apple Pay,Monthly
+CUST0185,32.0,Male,Bag,Accessories,28.99,Los Angeles,S,White,Winter,3.0,Yes,Same-Day,No,Yes,9.0,PayPal,Fortnightly
+CUST0186,43.0,Female,Dress,Clothing,219.83,Los Angeles,M,Green,Summer,1.0,Yes,Standard,Yes,Yes,2.0,Google Pay,Monthly
+CUST0187,40.0,Female,Shoes,Footwear,124.91,New York,M,White,Spring,4.0,Yes,Same-Day,No,No,7.0,Apple Pay,Fortnightly
+CUST0188,34.0,Male,Pants,Clothing,165.46,Miami,L,White,Summer,5.0,Yes,Same-Day,No,No,3.0,PayPal,Monthly
+CUST0189,24.0,Male,Shoes,Footwear,104.67,Houston,L,Red,Spring,4.0,No,Express,Yes,Yes,7.0,Credit Card,Weekly
+CUST0190,18.0,Male,Pants,Clothing,125.5,New York,S,Black,Winter,2.0,Yes,Same-Day,No,No,7.0,Debit Card,Monthly
+CUST0191,29.0,Female,Shirt,Clothing,241.74,Miami,M,Green,Spring,3.0,Yes,Standard,Yes,Yes,5.0,PayPal,Monthly
+CUST0192,45.0,Female,Bag,Accessories,202.07,Houston,M,Red,Winter,,No,Express,Yes,Yes,0.0,PayPal,Fortnightly
+CUST0193,,Female,Shoes,Footwear,141.64,Chicago,M,Black,Fall,4.0,Yes,Express,Yes,No,7.0,Credit Card,Monthly
+CUST0194,20.0,Female,Dress,Clothing,207.59,Houston,L,Red,Fall,4.0,Yes,Standard,Yes,No,7.0,Google Pay,Weekly
+CUST0195,37.0,Male,Dress,Clothing,209.24,Los Angeles,M,Yellow,Fall,3.0,Yes,Express,No,No,6.0,Debit Card,Weekly
+CUST0196,39.0,Male,Jacket,Clothing,120.64,Los Angeles,S,Red,Summer,4.0,Yes,Express,Yes,Yes,6.0,PayPal,Monthly
+CUST0197,24.0,Male,Pants,Clothing,39.82,Chicago,S,White,Summer,4.0,No,Express,No,Yes,2.0,Apple Pay,Monthly
+CUST0198,36.0,Male,Shoes,Footwear,82.56,New York,L,Black,Winter,5.0,No,Express,Yes,No,8.0,PayPal,Weekly
+CUST0199,35.0,Female,Jacket,Clothing,49.46,Miami,XL,Green,Fall,4.0,Yes,Standard,Yes,Yes,8.0,Debit Card,Fortnightly
+CUST0200,21.0,Female,Shoes,Footwear,237.33,Houston,L,Green,Summer,4.0,No,Standard,No,No,2.0,PayPal,Weekly
+CUST0201,39.0,Male,Pants,Clothing,250.36,Los Angeles,XL,Black,Fall,4.0,No,Express,Yes,Yes,9.0,Credit Card,Weekly
+CUST0202,41.0,Male,Dress,Clothing,268.98,New York,M,White,Summer,5.0,Yes,Express,No,No,5.0,PayPal,Monthly
+CUST0203,47.0,Female,Shirt,Clothing,10.0,Chicago,L,Blue,Spring,4.0,No,Standard,No,No,5.0,PayPal,Monthly
+CUST0204,47.0,Male,Dress,Clothing,230.36,Los Angeles,S,Red,Spring,3.0,Yes,Standard,Yes,Yes,4.0,Apple Pay,Weekly
+CUST0205,18.0,Female,Jacket,Clothing,315.91,Chicago,M,White,Fall,5.0,No,Standard,Yes,,5.0,,Fortnightly
+CUST0206,23.0,Male,Bag,Accessories,233.4,Houston,S,Yellow,Winter,4.0,No,Express,Yes,No,9.0,Credit Card,Weekly
+CUST0207,41.0,Male,Shirt,Clothing,10.0,Miami,M,Black,Summer,3.0,No,Express,Yes,Yes,8.0,PayPal,Weekly
+CUST0208,41.0,Male,Jacket,Clothing,282.62,Los Angeles,L,Red,Summer,3.0,Yes,Same-Day,Yes,No,8.0,Apple Pay,Fortnightly
+CUST0209,41.0,Male,Pants,Clothing,153.13,Los Angeles,XL,Green,Spring,4.0,No,Standard,Yes,Yes,6.0,PayPal,Weekly
+CUST0210,65.0,Male,Shirt,Clothing,132.57,Houston,M,Blue,Spring,4.0,Yes,Express,No,No,8.0,PayPal,Weekly
+CUST0211,41.0,Male,Jacket,Clothing,183.83,New York,XL,Yellow,Winter,4.0,Yes,Standard,No,Yes,2.0,Debit Card,Monthly
+CUST0212,48.0,Male,Pants,Clothing,71.32,Miami,M,Green,Winter,4.0,No,Express,Yes,No,7.0,Debit Card,Fortnightly
+CUST0213,46.0,Female,Dress,Clothing,,Los Angeles,S,Black,Winter,5.0,Yes,Standard,No,No,5.0,Apple Pay,Monthly
+CUST0214,42.0,Female,Bag,Accessories,271.53,Miami,S,Red,Fall,5.0,No,Express,No,No,0.0,Google Pay,Monthly
+CUST0215,31.0,Female,Pants,Clothing,196.68,Los Angeles,M,Black,Spring,4.0,Yess,Same-Day,Yes,No,0.0,Debit Card,Fortnightly
+CUST0216,44.0,Female,Shoes,Footwear,154.38,Miami,XL,Red,Fall,4.0,Yes,Same-Day,Yes,Yes,3.0,Google Pay,Fortnightly
+CUST0217,25.0,Female,Pants,Clothing,156.72,Chicago,L,White,Spring,2.0,No,Standard,No,Yes,6.0,Credit Card,Weekly
+CUST0218,32.0,Male,Pants,Clothing,61.4,Los Angeles,L,Blue,Spring,4.0,No,Express,Yes,Yes,3.0,Debit Card,Monthly
+CUST0219,29.0,Male,Bag,Accessories,138.75,Miami,S,White,Summer,5.0,No,Express,No,Yes,3.0,Debit Card,Fortnightly
+CUST0220,35.0,Female,Shoes,Footwear,27.43,New York,L,White,Spring,3.0,No,Standard,Yes,Yes,7.0,Apple Pay,Monthly
+CUST0221,62.0,Male,Jacket,Clothing,226.68,Chicago,S,Black,Spring,3.0,Yess,Express,No,Yes,3.0,Google Pay,Monthly
+CUST0222,18.0,Female,Jacket,Clothing,10.0,Chicago,L,Blue,Fall,3.0,Yes,Standard,No,Yes,9.0,Debit Card,Fortnightly
+CUST0223,43.0,Female,Pants,Clothing,214.12,New York,M,Red,Spring,2.0,Yes,Express,No,No,8.0,Debit Card,Weekly
+CUST0224,18.0,Male,Shoes,Footwear,223.46,Miami,S,Red,,3.0,No,Standard,No,No,5.0,Apple Pay,Monthly
+CUST0225,29.0,Male,Shoes,Footwear,248.91,Houston,S,Yellow,Winter,3.0,Yes,Express,Yes,No,7.0,Apple Pay,Fortnightly
+CUST0226,48.0,Male,Bag,Accessories,156.51,New York,M,Green,Spring,2.0,No,Standard,Yes,No,7.0,Google Pay,Weekly
+CUST0227,35.0,Female,Dress,Clothing,218.75,Miami,S,Yellow,Spring,4.0,Yes,Express,No,Yes,4.0,Credit Card,Monthly
+CUST0228,22.0,Male,Jacket,Clothing,138.02,New York,L,Yellow,Fall,4.0,No,Same-Day,No,Yes,8.0,Credit Card,Fortnightly
+CUST0229,26.0,Female,Bag,Accessories,61.0,New York,L,Red,Winter,3.0,Yes,Express,Yes,Yes,8.0,PayPal,Monthly
+CUST0230,43.0,Female,Shirt,Clothing,264.8,Los Angeles,S,Black,Summer,5.0,Yes,Standard,Yes,No,2.0,Debit Card,Fortnightly
+CUST0231,26.0,female,Jacket,Clothing,142.73,Miami,L,White,Winter,4.0,No,Same-Day,No,Yes,5.0,Google Pay,Fortnightly
+CUST0232,37.0,Male,Bag,Unknown,44.29,Houston,XL,White,Fall,5.0,Yes,Express,No,No,5.0,Debit Card,Monthly
+CUST0233,35.0,Male,Jacket,Unknown,114.99,Los Angeles,S,White,Winter,3.0,Yess,Same-Day,No,Yes,8.0,Google Pay,Monthly
+CUST0234,27.0,Female,Dress,Clothing,117.95,New York,M,Blue,Fall,4.0,Yes,Express,No,Yes,4.0,Google Pay,Fortnightly
+CUST0235,60.0,Male,Shirt,Clothing,184.63,New York,XL,Red,Fall,2.0,Yes,Same-Day,No,Yes,3.0,Google Pay,Weekly
+CUST0236,42.0,Male,Dress,Clothing,326.03,New York,S,Black,Summer,4.0,No,Standard,Yes,Yes,6.0,Debit Card,Monthly
+CUST0237,18.0,Male,Shirt,Clothing,189.18,Miami,M,Blue,Spring,4.0,No,Express,No,No,9.0,Apple Pay,Fortnightly
+CUST0238,37.0,Female,Pants,Clothing,165.51,Miami,L,Green,Fall,4.0,Yes,Express,Yes,No,1.0,Debit Card,Fortnightly
+CUST0239,27.0,Female,Bag,Accessories,334.18,Los Angeles,M,Black,Fall,2.0,Yes,Standard,Yes,Yes,2.0,Google Pay,Weekly
+CUST0240,45.0,Male,Shirt,Clothing,223.42,Houston,XL,Yellow,Summer,3.0,Yes,Same-Day,Yes,No,3.0,PayPal,Weekly
+CUST0241,25.0,Female,Dress,Clothing,169.07,Los Angeles,L,Black,Fall,4.0,Yes,Standard,No,Yes,4.0,Credit Card,Weekly
+CUST0242,33.0,Male,Jacket,Clothing,,Chicago,S,Black,Spring,3.0,Yes,Standard,Yes,Yes,0.0,Google Pay,Monthly
+CUST0243,41.0,Male,Shirt,Clothing,173.72,New York,L,White,Summer,4.0,Yes,Same-Day,Yes,Yes,9.0,PayPal,Fortnightly
+CUST0244,45.0,Male,Bag,Accessories,145.02,New York,S,Black,Spring,2.0,No,Standard,Yes,Yes,5.0,Apple Pay,Fortnightly
+CUST0245,20.0,Male,Shirt,Clothing,156.86,New York,S,Yellow,Spring,4.0,No,Express,Yes,No,4.0,Google Pay,Fortnightly
+CUST0246,30.0,Female,Shoes,Footwear,248.58,Los Angeles,M,Yellow,Summer,2.0,No,Express,No,Yes,10.0,PayPal,Weekly
+CUST0247,29.0,Female,Jacket,Clothing,109.48,Los Angeles,M,,Fall,4.0,Yes,Express,No,Yes,7.0,Google Pay,Fortnightly
+CUST0248,27.0,female,Bag,Accessories,188.52,New York,M,Black,Spring,4.0,Yes,Standard,Yes,No,3.0,Debit Card,Monthly
+CUST0249,56.0,Male,Bag,Accessories,221.17,Los Angeles,XL,White,Spring,3.0,Yes,Express,Yes,Yes,5.0,PayPal,Weekly
+CUST0250,39.0,Male,Pants,Clothing,100.34,Miami,XL,Black,Spring,4.0,No,Express,No,No,5.0,Debit Card,Weekly
+CUST0251,19.0,Male,Dress,,88.3,Miami,M,Green,Spring,4.0,No,Express,No,Yes,9.0,Debit Card,Weekly
+CUST0252,46.0,Female,Pants,Clothing,138.72,Los Angeles,XL,Green,Summer,3.0,Yes,Express,No,Yes,4.0,PayPal,Weekly
+CUST0253,60.0,Male,Bag,Accessories,115.38,New York,L,White,Summer,2.0,Yes,Express,Yes,Yes,1.0,Credit Card,Monthly
+CUST0254,47.0,Female,Jacket,Clothing,236.42,Los Angeles,L,Red,Winter,2.0,No,Express,No,Yes,0.0,PayPal,Fortnightly
+CUST0255,18.0,Female,Shirt,Clothing,74.87,Los Angeles,XL,Red,,4.0,No,Standard,Yes,Yes,9.0,Credit Card,Monthly
+CUST0256,29.0,Female,Shirt,Clothing,155.14,Los Angeles  ,XL,Yellow,Spring,2.0,No,Express,Yes,Yes,3.0,Google Pay,Fortnightly
+CUST0257,50.0,Female,Jacket,Clothing,340.95,Chicago,L,Yellow,Fall,4.0,Yes,Express,No,No,7.0,Google Pay,Monthly
+CUST0258,26.0,Female,Bag,Accessories,180.98,Miami,S,Blue,Spring,3.0,Yes,Same-Day,Yes,Yes,5.0,PayPal,Weekly
+CUST0259,40.0,Female,Shirt,Clothing,193.45,Houston,L,White,,4.0,Yes,Standard,No,No,4.0,Google Pay,Weekly
+CUST0260,44.0,Male,Shirt,Clothing,237.05,Houston,L,Black,Spring,3.0,,Standard,Yes,No,4.0,Apple Pay,Monthly
+CUST0261,23.0,Male,Shirt,Clothing,115.28,Chicago  ,XL,White,Winter,3.0,No,Standard,No,Yes,10.0,Debit Card,Monthly
+CUST0262,34.0,Female,Dress,Clothing,68.89,Los Angeles,L,Blue,Winter,4.0,Yes,Standard,Yes,No,1.0,Debit Card,Fortnightly
+CUST0263,18.0,Female,Dress,Clothing,163.24,Chicago,XL,Yellow,Fall,4.0,Yes,Express,Yes,Yes,4.0,Credit Card,Monthly
+CUST0264,22.0,Male,Shoes,Footwear,169.91,Chicago,XL,White,Spring,4.0,No,Express,No,No,8.0,Google Pay,Monthly
+CUST0265,31.0,Female,Pants,Clothing,28.63,New York,M,White,Fall,4.0,Yes,Same-Day,No,Yes,1.0,Credit Card,Fortnightly
+CUST0266,20.0,Female,Jacket,Clothing,178.13,Miami,L,Yellow,Winter,2.0,No,Same-Day,No,No,9.0,Debit Card,Fortnightly
+CUST0267,54.0,Male,Jacket,Clothing,230.24,Houston,S,Blue,Spring,4.0,No,Standard,No,No,8.0,Debit Card,Fortnightly
+CUST0268,18.0,Female,Jacket,Clothing,81.53,Los Angeles,M,Yellow,Spring,4.0,Yes,Same-Day,Yes,Yes,6.0,Google Pay,Monthly
+CUST0269,29.0,Female,Shoes,Footwear,182.67,Houston,XL,Red,Fall,2.0,Yess,Same-Day,No,No,3.0,Apple Pay,Fortnightly
+CUST0270,36.0,Female,Dress,Clothing,216.92,Houston,XL,Black,Summer,3.0,Yes,Standard,No,Yes,1.0,Apple Pay,Weekly
+CUST0271,52.0,Male,Bag,Accessories,194.0,Miami,S,Yellow,Fall,3.0,No,Standard,Yes,Yes,7.0,Google Pay,Weekly
+CUST0272,18.0,Male,Bag,Accessories,201.08,Houston,XL,Blue,Winter,3.0,No,Same-Day,No,Yes,13.0,Google Pay,Weekly
+CUST0273,48.0,Male,Shoes,Footwear,131.64,Houston,L,Green,Winter,,Yes,Express,No,Yes,5.0,Credit Card,Monthly
+CUST0274,35.0,Female,Bag,Accessories,65.44,Chicago,M,Red,Winter,5.0,No,Same-Day,Yes,,0.0,,Weekly
+CUST0275,23.0,Female,Jacket,Clothing,116.46,Miami,XL,Green,Winter,5.0,Yes,Same-Day,No,No,6.0,Apple Pay,Monthly
+CUST0276,40.0,Male,Pants,Clothing,106.05,New York,XL,Yellow,Winter,2.0,Yes,Express,No,No,8.0,Google Pay,Monthly
+CUST0277,37.0,Female,Shirt,Clothing,143.98,Los Angeles,S,Red,Summer,Five,No,Express,No,No,2.0,Credit Card,Weekly
+CUST0278,27.0,Female,Dress,Clothing,232.0,Houston,L,Black,Spring,5.0,Yes,Standard,No,Yes,3.0,Credit Card,Fortnightly
+CUST0279,35.0,Female,Dress,Clothing,51.61,Los Angeles,XL,Yellow,Fall,4.0,Yes,Standard,No,No,3.0,Credit Card,Monthly
+CUST0280,30.0,Female,Shoes,Footwear,160.82,New York,S,Black,Fall,5.0,Yes,Same-Day,No,No,3.0,Credit Card,Weekly
+CUST0281,36.0,Female,Dress,Clothing,,Los Angeles,XL,White,Winter,5.0,Yes,Express,Yes,No,4.0,PayPal,Monthly
+CUST0282,42.0,Male,Jacket,Clothing,94.5,New York,S,Green,Fall,5.0,Yes,Standard,No,No,2.0,Google Pay,Fortnightly
+CUST0283,54.0,Female,Bag,Accessories,191.91,Chicago,S,Red,Winter,4.0,Yes,Same-Day,Yes,No,1.0,Debit Card,Fortnightly
+CUST0284,20.0,Male,Jacket,Clothing,60.75,Houston,L,Black,Summer,5.0,No,Express,Yes,Yes,6.0,Google Pay,Weekly
+CUST0285,60.0,Female,Shoes,Footwear,205.07,New York,XL,Blue,Summer,4.0,Yes,Same-Day,Yes,Yes,4.0,PayPal,Monthly
+,18.0,Male,Jacket,Clothing,48.59,Los Angeles,L,Black,Spring,4.0,No,Standard,Yes,No,4.0,Credit Card,Monthly
+CUST0287,33.0,Female,Bag,Accessories,200.02,Houston,S,Blue,Summer,3.0,No,Standard,No,Yes,5.0,PayPal,Monthly
+CUST0288,42.0,Male,Pants,Clothing,33.79,Chicago,M,Yellow,Summer,5.0,Yes,Express,No,Yes,0.0,Apple Pay,Monthly
+CUST0289,38.0,Female,Shoes,Footwear,103.66,Houston,XL,Red,Spring,3.0,No,Same-Day,No,No,6.0,Apple Pay,Weekly
+CUST0290,27.0,Male,Pants,Clothing,292.24,New York,M,Black,Fall,5.0,No,Express,Yes,No,4.0,Google Pay,Fortnightly
+CUST0291,32.0,Female,Shirt,Clothing,278.14,Chicago,XL,Black,Winter,4.0,Yes,Standard,No,Yes,6.0,Google Pay,Weekly
+CUST0292,29.0,Male,Pants,Clothing,119.06,Los Angeles,L,Red,Winter,2.0,Yes,Standard,No,No,6.0,Debit Card,Monthly
+CUST0293,27.0,Female,Shirt,Clothing,179.25,Chicago,L,Black,Fall,4.0,Yes,Same-Day,No,Yes,8.0,Debit Card,Monthly
+CUST0294,45.0,Male,Shirt,Clothing,240.31,Chicago,L,Blue,Spring,1.0,No,Same-Day,Yes,Yes,5.0,Apple Pay,Fortnightly
+CUST0295,39.0,Male,Pants,Clothing,201.1,Miami,L,Black,Fall,4.0,No,Same-Day,,No,8.0,Credit Card,Monthly
+CUST0296,26.0,Female,Shoes,Footwear,-129.49,Chicago,L,Green,Summer,4.0,Yes,Express,No,Yes,4.0,PayPal,Weekly
+CUST0297,45.0,Female,Bag,Accessories,93.85,Chicago,M,Yellow,Spring,3.0,Yes,Same-Day,Yes,Yes,4.0,Debit Card,Weekly
+CUST0298,38.0,Male,Jacket,Clothing,215.11,Houston,L,White,Spring,4.0,No,Same-Day,Yes,Yes,5.0,Debit Card,Fortnightly
+CUST0299,44.0,Female,Jacket,Clothing,234.8,Los Angeles,S,Blue,Spring,5.0,No,Standard,No,No,7.0,Credit Card,Weekly
+CUST0300,42.0,male,Bag,Accessories,278.68,Houston,S,Green,Winter,3.0,No,Standard,Yes,No,7.0,Credit Card,Weekly
+CUST0301,25.0,Male,Shirt,Clothing,23.46,Houston,M,Yellow,Fall,2.0,No,Same-Day,Yes,No,5.0,Google Pay,Weekly
+CUST0302,28.0,Male,Shirt,Clothing,56.02,New York,XL,Red,Spring,5.0,Yes,Same-Day,No,No,1.0,PayPal,Weekly
+CUST0303,43.0,Female,Shoes,Footwear,237.14,Houston,S,Blue,Spring,5.0,No,Standard,Yes,Yes,7.0,Credit Card,Monthly
+CUST0304,42.0,Male,Dress,Clothing,33.64,Miami,XL,White,Spring,4.0,No,Same-Day,Yes,No,2.0,Debit Card,Weekly
+CUST0305,34.0,Male,Pants,Clothing,242.89,Miami,M,Yellow,Fall,5.0,No,,Yes,,,,Fortnightly
+CUST0306,36.0,Female,Shirt,Clothing,133.88,New York,XL,White,Winter,5.0,No,Express,Yes,No,2.0,Apple Pay,Fortnightly
+CUST0307,50.0,Female,Jacket,Clothing,110.93,Los Angeles,XL,Red,Summer,3.0,Yes,Express,Yes,No,5.0,Credit Card,Weekly
+CUST0308,27.0,Female,Shoes,Footwear,165.41,Los Angeles  ,XL,Red,Winter,3.0,Yes,Same-Day,Yes,Yes,9.0,Google Pay,Fortnightly
+CUST0309,41.0,Female,Pants,Clothing,49.1,Houston,XL,Blue,Spring,5.0,No,Standard,Yes,Yes,2.0,PayPal,Weekly
+CUST0310,32.0,Male,Shoes,Footwear,211.8,Houston,M,Black,Winter,5.0,No,Same-Day,Yes,Yes,10.0,Google Pay,Fortnightly
+CUST0311,32.0,Male,Pants,Clothing,276.72,Houston,S,Red,Winter,4.0,Yess,,No,No,8.0,Debit Card,Fortnightly
+CUST0312,48.0,Male,Pants,Clothing,215.29,Los Angeles,L,Yellow,Summer,3.0,Yes,Standard,No,No,1.0,Google Pay,Weekly
+CUST0313,44.0,Male,Bag,Accessories,131.51,Chicago,XL,Black,Fall,5.0,No,Standard,No,Yes,4.0,Debit Card,Weekly
+CUST0314,44.0,Female,Shirt,Clothing,34.65,Miami,S,Green,Fall,3.0,No,Standard,No,No,2.0,Debit Card,Monthly
+CUST0315,50.0,Male,Shoes,Footwear,-37.53,Chicago,S,White,Winter,3.0,Yes,Express,Yes,No,7.0,Debit Card,Weekly
+CUST0316,35.0,Male,Shoes,Footwear,50.28,Chicago,M,Black,Winter,4.0,Yes,Same-Day,No,Yes,2.0,Debit Card,Weekly
+CUST0317,43.0,Female,Bag,Accessories,149.08,Los Angeles,S,White,Fall,5.0,Yes,Standard,No,Yes,0.0,Debit Card,Monthly
+CUST0318,31.0,Male,Jacket,Clothing,158.51,Chicago,M,Black,Fall,4.0,Yes,Same-Day,Yes,No,4.0,Apple Pay,Weekly
+CUST0319,38.0,Male,Jacket,Clothing,215.13,New York,XL,Green,Summer,4.0,Yes,Express,Yes,No,9.0,Google Pay,Weekly
+CUST0320,33.0,Male,Shirt,Clothing,15.3,Houston,XL,Red,Spring,4.0,Yes,Express,Yes,No,4.0,Apple Pay,Monthly
+CUST0321,36.0,Male,Shirt,Clothing,248.34,New York,L,Green,Winter,4.0,No,Standard,Yes,Yes,6.0,,Weekly
+CUST0322,42.0,Male,Dress,Clothing,202.08,Miami  ,L,Red,Fall,4.0,Yes,Standard,Yes,Yes,6.0,Credit Card,Weekly
+CUST0323,25.0,Male,Bag,Accessories,125.49,Houston,L,Red,Winter,1.0,Yes,Same-Day,No,Yes,0.0,Credit Card,Monthly
+CUST0324,60.0,Female,Jacket,Clothing,60.77,Chicago,S,White,Winter,3.0,Yes,Standard,Yes,Yes,2.0,Credit Card,Monthly
+CUST0325,,Female,Pants,Clothing,243.69,Miami,XL,Yellow,Fall,4.0,Yes,Same-Day,No,No,5.0,PayPal,Fortnightly
+CUST0326,20.0,Male,Shoes,Footwear,127.49,Houston,M,Green,Summer,2.0,No,Standard,No,Yes,3.0,Credit Card,Weekly
+CUST0327,48.0,Male,Shirt,Clothing,148.5,Chicago,L,Black,Winter,4.0,No,Same-Day,Yes,Yes,10.0,Google Pay,Fortnightly
+CUST0328,44.0,Female,Shoes,Footwear,178.77,New York,M,Green,Summer,3.0,Yes,Same-Day,No,No,1.0,Apple Pay,Fortnightly
+CUST0329,42.0,Male,Shoes,Footwear,81.51,Houston,M,White,Fall,5.0,No,Same-Day,No,No,2.0,Google Pay,Monthly
+CUST0330,42.0,Male,Dress,Clothing,128.84,Chicago,L,Red,Spring,5.0,No,Same-Day,Yes,No,6.0,Credit Card,Weekly
+CUST0331,34.0,Male,Jacket,Clothing,214.9,New York,XL,White,Spring,3.0,No,Express,No,Yes,3.0,PayPal,Weekly
+CUST0332,,Female,Shirt,Clothing,-207.31,Miami,L,Blue,Winter,3.0,No,Same-Day,No,No,0.0,PayPal,Monthly
+CUST0333,35.0,Male,Shoes,Footwear,207.98,Miami,M,Blue,Fall,3.0,No,Standard,No,No,,Apple Pay,Fortnightly
+CUST0334,26.0,Female,Shirt,Clothing,63.36,Miami,,Black,Summer,3.0,No,Express,Yes,Yes,2.0,Google Pay,Monthly
+CUST0335,46.0,Male,Pants,Clothing,132.26,Miami,M,White,Winter,4.0,Yes,Express,Yes,Yes,7.0,Debit Card,Weekly
+CUST0336,33.0,Female,Dress,Clothing,120.27,Los Angeles,M,Black,Fall,3.0,Yes,Same-Day,Yes,No,,Google Pay,Monthly
+CUST0337,25.0,Female,Pants,Clothing,181.89,Houston,L,Black,Fall,2.0,Yes,Express,No,Yes,2.0,Credit Card,Weekly
+CUST0338,31.0,Male,Shirt,Clothing,175.17,Houston,S,Blue,Summer,4.0,Yes,Same-Day,Yes,No,0.0,Debit Card,Fortnightly
+CUST0339,39.0,Female,Shirt,Clothing,161.66,Los Angeles,L,Black,Winter,4.0,Yes,Standard,No,No,3.0,PayPal,Weekly
+,28.0,Male,Jacket,Clothing,334.93,Chicago,S,Blue,Fall,3.0,No,Same-Day,Yes,Yes,3.0,Apple Pay,
+CUST0341,25.0,Female,Shoes,Footwear,128.19,Chicago,M,Red,Fall,4.0,Yes,,No,No,5.0,Apple Pay,Fortnightly
+CUST0342,37.0,Male,Shoes,Footwear,119.41,Miami,M,White,Fall,3.0,Yes,Standard,Yes,Yes,4.0,PayPal,Weekly
+CUST0343,37.0,Male,Pants,Clothing,63.24,New York,S,Black,Summer,4.0,No,Same-Day,Yes,Yes,1.0,Credit Card,Weekly
+CUST0344,28.0,Female,Dress,Clothing,34.66,Chicago,M,Blue,Winter,4.0,No,Standard,,Yes,3.0,PayPal,Fortnightly
+CUST0345,29.0,Male,Bag,Accessories,58.48,New York,S,Green,Winter,3.0,Yes,Standard,Yes,No,9.0,Credit Card,Monthly
+CUST0346,37.0,Male,Shoes,Footwear,96.1,Houston,S,Black,Winter,4.0,No,Express,No,Yes,9.0,Debit Card,Weekly
+CUST0347,18.0,Female,Jacket,Clothing,248.26,New York,M,Yellow,Winter,3.0,No,Standard,Yes,Yes,6.0,PayPal,Fortnightly
+CUST0348,18.0,Male,Pants,Clothing,152.94,Houston,XL,Red,Spring,3.0,No,Express,Yes,No,7.0,Credit Card,Fortnightly
+CUST0349,26.0,Male,Pants,Clothing,164.5,Los Angeles,S,Red,Spring,3.0,No,Standard,No,No,11.0,Debit Card,Monthly
+CUST0350,32.0,Female,Bag,Accessories,142.78,Los Angeles,L,Green,Winter,3.0,Yes,Same-Day,No,No,7.0,PayPal,Weekly
+CUST0351,38.0,Female,Jacket,,177.4,Miami,L,Blue,Summer,3.0,No,Standard,No,No,7.0,Apple Pay,Fortnightly
+CUST0352,52.0,Male,Dress,Clothing,255.16,Chicago,M,Black,Spring,2.0,Yes,Same-Day,Yes,Yes,0.0,PayPal,Monthly
+CUST0353,45.0,Male,Jacket,Clothing,10.0,Miami,XL,Blue,Fall,3.0,Yes,Same-Day,No,Yes,2.0,Google Pay,Fortnightly
+CUST0354,33.0,Female,Dress,Clothing,-241.38,Houston,M,Red,Spring,3.0,No,Standard,Yes,Yes,5.0,PayPal,Weekly
+CUST0355,34.0,Female,Jacket,Clothing,10.0,Miami,XL,Blue,Fall,3.0,No,Same-Day,No,No,3.0,Google Pay,Monthly
+CUST0356,22.0,Male,Jacket,Clothing,152.12,New York  ,S,Red,Winter,3.0,No,Standard,No,No,2.0,Debit Card,Fortnightly
+CUST0357,34.0,Female,Shirt,Clothing,314.39,Houston,S,Blue,Spring,3.0,Yes,Standard,No,Yes,2.0,PayPal,Monthly
+CUST0358,31.0,Male,Pants,Clothing,201.05,Los Angeles,S,Green,Summer,4.0,No,Same-Day,No,No,1.0,Debit Card,Weekly
+CUST0359,38.0,Male,Jacket,Clothing,177.98,Chicago,S,White,Spring,4.0,No,Same-Day,No,No,3.0,Debit Card,Monthly
+CUST0360,25.0,Male,Bag,Accessories,300.15,Houston,L,Green,Spring,3.0,No,Express,No,Yes,6.0,Credit Card,Weekly
+CUST0361,41.0,Male,Jacket,Clothing,97.27,Houston,L,Green,Spring,2.0,No,Same-Day,Yes,Yes,10.0,Debit Card,Fortnightly
+CUST0362,53.0,Male,Shoes,Footwear,182.55,New York,M,White,Winter,2.0,No,Express,No,No,7.0,Debit Card,Weekly
+CUST0363,33.0,Female,Pants,Clothing,193.36,Chicago,XL,White,Summer,3.0,Yes,Same-Day,Yes,No,7.0,PayPal,Fortnightly
+CUST0364,39.0,Female,Shoes,Footwear,110.82,Los Angeles,S,Black,Spring,3.0,No,Standard,No,No,0.0,PayPal,Fortnightly
+CUST0365,43.0,Female,Pants,Clothing,117.44,Houston,S,Black,Summer,3.0,No,Same-Day,No,Yes,5.0,Apple Pay,Weekly
+CUST0366,30.0,Female,Shoes,Footwear,109.22,Houston,XL,Green,Winter,2.0,,Standard,No,Yes,5.0,Credit Card,Fortnightly
+CUST0367,37.0,Male,Jacket,Clothing,156.55,New York,XL,Green,Fall,3.0,Yes,Standard,Yes,Yes,6.0,Debit Card,Monthly
+CUST0368,35.0,Male,Jacket,Clothing,191.0,Miami,M,Red,Spring,4.0,No,Standard,Yes,Yes,4.0,Credit Card,Fortnightly
+CUST0369,36.0,Male,Shirt,Clothing,-159.24,Los Angeles,XL,Red,Summer,4.0,Yes,Express,No,Yes,10.0,Google Pay,Weekly
+CUST0370,25.0,Male,Bag,Accessories,203.21,Chicago,S,Black,Summer,3.0,Yes,Same-Day,Yes,No,5.0,Debit Card,Monthly
+CUST0371,35.0,Female,Shoes,Footwear,10.0,Houston,S,Yellow,Winter,3.0,No,Standard,No,No,5.0,Credit Card,Monthly
+CUST0372,40.0,Male,Dress,Clothing,133.63,Houston,S,Yellow,Spring,3.0,No,Standard,No,No,0.0,Apple Pay,
+CUST0373,52.0,Male,Shirt,Clothing,73.24,Los Angeles  ,S,Black,Fall,3.0,No,Express,Yes,Yes,5.0,Apple Pay,Fortnightly
+CUST0374,46.0,Female,Shoes,Footwear,172.63,Miami,S,Red,Summer,3.0,Yes,Same-Day,Yes,Yes,8.0,Debit Card,Weekly
+CUST0375,60.0,Female,Shoes,Footwear,171.52,Houston,M,Red,Spring,4.0,Yes,Same-Day,Yes,Yes,7.0,Google Pay,Monthly
+CUST0376,25.0,Female,Shirt,Clothing,141.33,Los Angeles,S,Yellow,Fall,2.0,Yes,Express,Yes,No,0.0,Apple Pay,Weekly
+CUST0377,45.0,Female,Jacket,Clothing,188.27,New York,M,Blue,Summer,3.0,Yes,Express,No,Yes,4.0,Apple Pay,Fortnightly
+CUST0378,37.0,Male,Shoes,Footwear,224.84,Miami,S,Blue,Summer,4.0,Yes,Same-Day,Yes,Yes,10.0,Google Pay,Monthly
+CUST0379,61.0,Male,Jacket,Clothing,145.46,Chicago  ,L,Red,Fall,4.0,Yes,Express,Yes,No,5.0,Credit Card,Weekly
+CUST0380,25.0,Female,Shirt,Unknown,71.12,Houston,L,Blue,Fall,5.0,No,Same-Day,No,Yes,6.0,Apple Pay,Weekly
+CUST0381,24.0,male,Jacket,Clothing,31.41,Los Angeles,L,White,Winter,4.0,No,Same-Day,Yes,No,10.0,PayPal,Weekly
+CUST0382,27.0,Male,Pants,Clothing,152.71,New York,L,Black,Spring,2.0,Yes,Standard,Yes,Yes,5.0,Apple Pay,Weekly
+CUST0383,18.0,Male,Dress,Clothing,168.14,Chicago,M,Black,Spring,3.0,No,Standard,Yes,Yes,7.0,Credit Card,Weekly
+CUST0384,28.0,Female,Shoes,Footwear,77.29,Los Angeles,M,Red,Winter,2.0,No,Same-Day,Yes,No,6.0,Credit Card,Monthly
+CUST0385,25.0,Male,Bag,Accessories,204.43,Los Angeles,XL,Green,Summer,3.0,Yes,Same-Day,No,No,7.0,Debit Card,Weekly
+CUST0386,36.0,Female,Dress,,115.58,Chicago,S,Yellow,Fall,3.0,Yes,Same-Day,No,No,6.0,PayPal,Monthly
+CUST0387,39.0,Male,Jacket,Clothing,25.77,New York,L,Red,Fall,4.0,No,Same-Day,Yes,No,3.0,Credit Card,Weekly
+CUST0388,57.0,Male,Shoes,Footwear,244.23,New York,M,Blue,Fall,3.0,Yes,Same-Day,Yes,No,4.0,Google Pay,Fortnightly
+CUST0389,46.0,Male,Jacket,Clothing,235.8,Miami,S,Yellow,Summer,3.0,Yes,Same-Day,No,No,2.0,PayPal,Fortnightly
+CUST0390,28.0,Female,Pants,Clothing,10.0,Houston,S,Green,Fall,3.0,No,Express,Yes,Yes,0.0,PayPal,Weekly
+CUST0391,24.0,Male,Shirt,Clothing,107.8,Chicago,M,Blue,Fall,5.0,Yes,Same-Day,Yes,Yes,9.0,Google Pay,Fortnightly
+CUST0392,40.0,Female,Shoes,Footwear,104.88,Chicago,L,White,Winter,3.0,No,Express,Yes,No,5.0,Apple Pay,Monthly
+CUST0393,19.0,Female,Pants,Clothing,272.96,Chicago,XL,Blue,Summer,5.0,No,Express,Yes,Yes,9.0,Google Pay,Weekly
+CUST0394,56.0,Female,Pants,Clothing,142.55,New York,S,White,Spring,4.0,No,Same-Day,Yes,No,10.0,Google Pay,Monthly
+CUST0395,49.0,Male,Shoes,Footwear,37.81,Houston,XL,Yellow,Winter,4.0,No,Same-Day,Yes,Yes,5.0,Apple Pay,Weekly
+CUST0396,29.0,Male,Jacket,Clothing,216.16,Miami,L,White,Winter,4.0,No,Express,Yes,No,1.0,Apple Pay,Fortnightly
+CUST0397,18.0,Male,Bag,Accessories,57.69,Los Angeles,L,Yellow,Spring,4.0,Yes,Express,Yes,Yes,4.0,Apple Pay,Monthly
+CUST0398,51.0,Male,Pants,Clothing,130.47,Los Angeles,XL,Yellow,Winter,2.0,Yes,Same-Day,Yes,Yes,3.0,Apple Pay,Fortnightly
+CUST0399,33.0,Female,Dress,Clothing,92.27,Chicago,L,Yellow,Summer,Five,Yes,Same-Day,No,Yes,0.0,Apple Pay,Fortnightly
+CUST0400,49.0,Female,Pants,Unknown,107.97,Houston,S,Yellow,,4.0,Yes,Express,No,Yes,3.0,Google Pay,Weekly
+CUST0401,18.0,Female,Bag,Accessories,220.29,New York,XL,Yellow,Summer,3.0,No,Express,No,Yes,5.0,Debit Card,Monthly
+CUST0402,27.0,Male,Jacket,Clothing,264.1,Houston,L,Blue,Spring,2.0,No,Express,Yes,No,3.0,Debit Card,Fortnightly
+CUST0403,35.0,Female,Jacket,Clothing,54.42,Houston,XL,Yellow,Spring,3.0,Yes,Standard,Yes,No,3.0,Credit Card,Weekly
+CUST0404,35.0,Male,Dress,Clothing,196.96,New York,S,Blue,Winter,5.0,No,Express,No,No,1.0,Debit Card,Weekly
+CUST0405,29.0,Female,Pants,Clothing,95.04,Chicago,L,Yellow,Summer,5.0,Yes,Standard,Yes,Yes,6.0,Debit Card,Weekly
+CUST0406,42.0,Male,Jacket,Unknown,97.37,Houston,S,White,Summer,,Yes,Same-Day,No,No,11.0,Google Pay,Fortnightly
+CUST0407,22.0,Male,Bag,Accessories,186.8,Los Angeles,L,Yellow,Spring,4.0,Yes,Same-Day,Yes,Yes,9.0,Apple Pay,Weekly
+CUST0408,33.0,Female,Shoes,Footwear,72.91,New York,M,Green,Summer,3.0,No,Express,No,Yes,7.0,Apple Pay,Monthly
+CUST0409,36.0,Female,Shirt,Clothing,185.3,Miami,L,Yellow,Spring,2.0,No,Same-Day,No,Yes,7.0,Google Pay,Monthly
+CUST0410,41.0,Female,Shirt,Clothing,204.76,Chicago,XL,Yellow,Summer,3.0,No,Same-Day,No,No,5.0,Debit Card,Fortnightly
+CUST0411,43.0,Female,Shirt,Clothing,117.56,New York,L,White,Summer,5.0,No,Same-Day,Yes,Yes,0.0,Google Pay,Monthly
+CUST0412,21.0,Male,Pants,Clothing,249.53,Miami,S,Black,Summer,3.0,Yes,Same-Day,No,No,4.0,Credit Card,Weekly
+CUST0413,18.0,Female,Dress,Clothing,54.54,Miami,S,White,Spring,3.0,No,Standard,Yes,No,2.0,Apple Pay,Fortnightly
+CUST0414,50.0,Female,Jacket,Clothing,250.91,Houston,L,Green,Winter,3.0,No,Standard,Yes,Yes,5.0,PayPal,Weekly
+CUST0415,38.0,Female,Shoes,Footwear,10.0,Houston,XL,Black,Summer,5.0,No,Express,Yes,Yes,9.0,Credit Card,Fortnightly
+CUST0416,26.0,Male,Bag,Accessories,352.48,Houston,M,Red,Spring,5.0,Yes,Express,Yes,No,11.0,Credit Card,Fortnightly
+CUST0417,53.0,Male,Shoes,Footwear,119.53,New York,XL,Red,Spring,5.0,Yes,Express,Yes,No,5.0,Google Pay,Weekly
+CUST0418,36.0,Female,Bag,Accessories,62.83,New York,M,Green,Summer,3.0,No,Same-Day,Yes,No,0.0,Debit Card,Monthly
+CUST0419,49.0,Male,Pants,Clothing,132.55,Chicago,S,White,Summer,4.0,No,Same-Day,Yes,No,5.0,Apple Pay,Monthly
+CUST0420,35.0,Female,Shirt,Unknown,71.51,Houston  ,XL,Blue,Winter,2.0,No,Standard,No,No,5.0,PayPal,Fortnightly
+CUST0421,59.0,Male,Pants,Clothing,179.02,Miami,M,Green,Spring,5.0,No,Standard,No,No,7.0,Credit Card,Weekly
+CUST0422,56.0,Male,Dress,Clothing,252.57,Los Angeles,L,Black,Spring,2.0,Yes,Express,No,Yes,5.0,PayPal,Weekly
+CUST0423,32.0,Male,Dress,Clothing,75.49,Chicago,S,Black,Fall,4.0,No,Standard,,No,5.0,Debit Card,Fortnightly
+CUST0424,46.0,Male,Bag,Accessories,193.45,New York,L,Yellow,Spring,2.0,No,Standard,Yes,No,3.0,Debit Card,Monthly
+CUST0425,42.0,Female,Jacket,Clothing,35.04,Chicago,S,Red,Winter,3.0,No,Standard,Yes,No,4.0,PayPal,Weekly
+CUST0426,51.0,Female,Jacket,Clothing,227.47,Chicago,XL,Black,Fall,3.0,Yes,Standard,Yes,No,7.0,Apple Pay,Monthly
+CUST0427,23.0,Female,Bag,Accessories,181.22,Chicago,XL,Green,Fall,3.0,Yes,Standard,No,Yes,0.0,Debit Card,Monthly
+CUST0428,43.0,Male,Dress,Clothing,230.71,Chicago,S,Black,Fall,3.0,,Express,Yes,Yes,4.0,PayPal,Fortnightly
+CUST0429,47.0,Female,Dress,Clothing,140.82,Los Angeles,S,Green,Summer,3.0,No,Express,No,No,7.0,Credit Card,Fortnightly
+CUST0430,18.0,Female,Dress,Clothing,117.36,Houston,S,Blue,Summer,4.0,No,Standard,Yes,No,10.0,PayPal,Monthly
+CUST0431,20.0,Female,Pants,Clothing,211.21,Miami,XL,Yellow,Spring,Five,No,Express,No,No,4.0,PayPal,Weekly
+CUST0432,18.0,Male,Dress,Clothing,51.9,Chicago,M,Red,Fall,4.0,No,Same-Day,Yes,Yes,9.0,Google Pay,Weekly
+CUST0433,31.0,Male,Shoes,Footwear,19.29,Chicago,L,Black,Winter,5.0,Yes,Standard,No,Yes,10.0,Debit Card,Fortnightly
+CUST0434,43.0,Male,Shirt,Clothing,149.63,Chicago,L,Green,Summer,3.0,Yes,Same-Day,Yes,Yes,4.0,Apple Pay,Monthly
+CUST0435,53.0,Female,Dress,Clothing,120.78,Houston,XL,White,Winter,3.0,Yes,Express,No,Yes,3.0,Apple Pay,Weekly
+CUST0436,35.0,Female,Bag,Accessories,191.54,New York,L,Red,Winter,3.0,No,Express,Yes,Yes,4.0,Google Pay,Weekly
+CUST0437,54.0,Female,Shirt,Clothing,231.87,New York,S,Blue,Summer,5.0,Yes,Same-Day,No,Yes,5.0,Apple Pay,Fortnightly
+CUST0438,18.0,Male,Pants,Clothing,189.98,Los Angeles,M,Green,Summer,4.0,Yes,Express,No,No,8.0,PayPal,Monthly
+CUST0439,18.0,Male,Bag,Accessories,225.89,New York,L,Yellow,Summer,3.0,Yes,Standard,Yes,Yes,3.0,Google Pay,Weekly
+CUST0440,34.0,Female,Shirt,Clothing,174.08,Chicago,M,Yellow,Summer,4.0,Yess,Same-Day,No,Yes,10.0,Credit Card,Fortnightly
+CUST0441,39.0,Male,Bag,Accessories,187.09,Chicago,S,Blue,Fall,2.0,No,Standard,Yes,No,3.0,Debit Card,Weekly
+CUST0442,34.0,Male,Pants,Clothing,141.25,Chicago,L,Blue,Fall,4.0,Yes,Same-Day,Yes,Yes,1.0,Debit Card,Weekly
+CUST0443,18.0,Male,Shoes,Footwear,184.88,Los Angeles,XL,Yellow,Fall,4.0,No,Express,Yes,No,7.0,Debit Card,Weekly
+CUST0444,33.0,Male,Pants,Clothing,162.5,Chicago,M,Black,Fall,3.0,Yes,Same-Day,No,Yes,9.0,PayPal,Fortnightly
+CUST0445,19.0,Female,Pants,Clothing,174.39,New York,S,Black,Spring,3.0,Yes,Same-Day,No,No,6.0,Credit Card,Monthly
+CUST0446,43.0,Male,Bag,Accessories,137.5,Houston,M,Green,Fall,3.0,Yes,Standard,Yes,No,6.0,Google Pay,Fortnightly
+CUST0447,39.0,Male,Jacket,Clothing,210.67,Houston,L,White,Summer,Five,Yes,Express,Yes,No,11.0,Google Pay,Monthly
+CUST0448,23.0,Male,Dress,Clothing,96.72,Miami,L,Green,Winter,5.0,No,Standard,No,No,9.0,Debit Card,Weekly
+CUST0449,28.0,Male,Dress,Clothing,,New York,XL,White,Fall,3.0,No,Express,,No,5.0,Credit Card,Monthly
+CUST0450,22.0,Female,Shoes,Footwear,248.38,Chicago,S,Blue,Spring,4.0,No,Standard,No,Yes,4.0,Credit Card,Weekly
+CUST0451,34.0,Female,Shoes,Footwear,78.85,Houston,S,Red,Summer,1.0,No,Same-Day,Yes,Yes,8.0,Credit Card,Weekly
+CUST0452,46.0,Male,Dress,Clothing,10.0,New York,XL,Green,Winter,3.0,Yes,Standard,Yes,No,7.0,Apple Pay,Fortnightly
+CUST0453,23.0,Male,Jacket,Clothing,177.48,Houston,XL,Green,Winter,,No,Express,Yes,No,6.0,Apple Pay,Weekly
+CUST0454,41.0,Male,Dress,Clothing,-130.73,Chicago,S,White,Fall,3.0,Yes,Express,Yes,No,4.0,Debit Card,Fortnightly
+CUST0455,28.0,Male,Jacket,Clothing,225.81,Houston,M,Blue,Winter,3.0,No,Same-Day,Yes,Yes,5.0,Credit Card,Monthly
+CUST0456,25.0,Male,Shoes,Footwear,140.21,Miami,M,Blue,Fall,3.0,No,Express,No,No,5.0,Credit Card,Monthly
+CUST0457,33.0,Male,Shirt,Clothing,104.67,Miami,XL,White,Fall,4.0,No,Standard,Yes,No,4.0,Google Pay,Weekly
+CUST0458,22.0,Female,Bag,Accessories,144.31,Houston,M,Blue,Summer,3.0,Yes,Same-Day,No,No,3.0,Google Pay,Fortnightly
+CUST0459,28.0,Male,Shoes,Footwear,231.98,New York,S,Yellow,Summer,1.0,Yes,Express,No,No,6.0,Debit Card,Weekly
+CUST0460,20.0,Female,Shoes,Footwear,193.15,New York,L,Black,Spring,1.0,Yes,Express,Yes,Yes,3.0,Credit Card,Fortnightly
+CUST0461,58.0,Female,Pants,Clothing,10.0,New York,L,Yellow,Summer,3.0,Yes,Standard,No,No,6.0,Debit Card,Fortnightly
+CUST0462,35.0,,Pants,Clothing,163.93,Houston,M,Red,Summer,4.0,No,Standard,Yes,No,0.0,Google Pay,Fortnightly
+CUST0463,26.0,Female,Pants,Clothing,167.68,New York,XL,Green,Fall,1.0,Yes,Same-Day,No,Yes,3.0,Google Pay,Monthly
+CUST0464,37.0,Female,Bag,Accessories,148.63,Chicago,XL,Red,Summer,3.0,Yes,Express,Yes,No,8.0,Apple Pay,Fortnightly
+CUST0465,33.0,Female,Pants,Unknown,104.18,Miami,XL,Green,Fall,3.0,No,Standard,Yes,No,2.0,Debit Card,Monthly
+CUST0466,32.0,Female,Jacket,Clothing,239.59,Chicago,XL,Black,Fall,5.0,No,Same-Day,No,Yes,7.0,Debit Card,Fortnightly
+CUST0467,,Female,Dress,Clothing,243.3,New York,XL,Blue,Summer,3.0,Yes,Express,Yes,Yes,3.0,Credit Card,Monthly
+CUST0468,44.0,Female,Shirt,Clothing,10.0,Chicago,M,Yellow,Spring,Five,,Express,No,Yes,7.0,Credit Card,Monthly
+CUST0469,28.0,Male,Shoes,Footwear,90.15,New York,L,White,Spring,4.0,Yes,Same-Day,,No,4.0,Apple Pay,Monthly
+CUST0470,28.0,Female,Jacket,,139.15,Houston,L,Yellow,Winter,1.0,No,Same-Day,Yes,No,4.0,PayPal,Weekly
+CUST0471,31.0,Female,Shirt,Clothing,221.14,Chicago,M,Black,Winter,Five,Yes,Standard,Yes,Yes,5.0,PayPal,Fortnightly
+CUST0472,18.0,,,Clothing,152.61,Houston  ,,Red,Summer,4.0,Yes,Express,No,,1.0,,Weekly
+CUST0473,18.0,Male,Jacket,Clothing,98.73,Houston,M,White,Spring,4.0,Yes,Express,No,Yes,8.0,Debit Card,Fortnightly
+CUST0474,51.0,Female,Shoes,Footwear,203.22,Los Angeles,L,Blue,Fall,5.0,Yes,Express,Yes,No,9.0,Debit Card,Fortnightly
+CUST0475,54.0,Male,Dress,Clothing,134.15,New York,S,Black,Winter,1.0,Yes,Same-Day,No,No,4.0,,Weekly
+CUST0476,32.0,Female,Pants,,141.19,Miami,M,White,Fall,5.0,No,Standard,Yes,Yes,7.0,Debit Card,Monthly
+CUST0477,41.0,Male,Bag,Accessories,147.96,New York,XL,Black,Winter,3.0,Yes,Express,No,No,7.0,Debit Card,Fortnightly
+CUST0478,38.0,Male,Dress,Clothing,193.07,Miami,L,Black,Summer,4.0,Yes,Same-Day,No,Yes,5.0,Debit Card,Monthly
+CUST0479,65.0,Female,Bag,Accessories,126.86,New York,L,Blue,Spring,3.0,Yes,Express,Yes,No,2.0,Apple Pay,Weekly
+CUST0480,48.0,Female,Shoes,Footwear,201.52,Houston,L,Green,Winter,3.0,Yes,,Yes,No,10.0,Debit Card,Monthly
+CUST0481,33.0,Male,Shoes,Footwear,144.52,Chicago,L,White,Spring,3.0,Yes,Express,Yes,No,4.0,Credit Card,Fortnightly
+CUST0482,23.0,Female,Shoes,Footwear,,Chicago,XL,Blue,Fall,4.0,No,Standard,Yes,No,3.0,Credit Card,Fortnightly
+CUST0483,18.0,Male,Shirt,Clothing,147.24,Los Angeles,S,Black,Summer,2.0,No,Standard,Yes,Yes,10.0,Google Pay,Fortnightly
+CUST0484,37.0,Male,Bag,Accessories,73.86,Miami,L,Blue,Spring,4.0,Yes,Express,No,No,7.0,Apple Pay,Weekly
+CUST0485,25.0,Male,Dress,Clothing,153.07,Miami,M,Green,Summer,3.0,No,Express,No,No,6.0,Credit Card,Fortnightly
+CUST0486,18.0,Male,Dress,Clothing,212.21,Miami,S,Yellow,Spring,2.0,Yes,,Yes,Yes,2.0,Apple Pay,Weekly
+CUST0487,27.0,Male,Jacket,Clothing,69.48,Houston,L,White,Fall,3.0,No,Same-Day,Yes,No,7.0,Apple Pay,Monthly
+CUST0488,22.0,Female,Jacket,Clothing,177.32,Miami,S,Green,Fall,5.0,No,Standard,Yes,Yes,14.0,Google Pay,Fortnightly
+CUST0489,55.0,Male,Jacket,Clothing,87.82,,M,Red,Summer,3.0,Yes,Express,No,Yes,,Apple Pay,Fortnightly
+CUST0490,45.0,Male,Shoes,Footwear,165.13,Houston,L,White,Fall,4.0,No,Express,Yes,No,6.0,Debit Card,Fortnightly
+CUST0491,34.0,Female,Dress,Clothing,214.52,New York,M,Green,Winter,3.0,No,Same-Day,Yes,No,7.0,Apple Pay,Monthly
+CUST0492,52.0,Male,Bag,Accessories,10.0,Miami,XL,Black,Spring,4.0,Yes,Standard,No,Yes,4.0,Google Pay,Fortnightly
+CUST0493,35.0,Female,Shoes,Footwear,66.41,Miami,L,White,Fall,4.0,Yes,Standard,No,Yes,4.0,Google Pay,Weekly
+CUST0494,24.0,Female,Shirt,Clothing,122.33,New York,L,White,Winter,5.0,No,Standard,No,Yes,4.0,Google Pay,Monthly
+CUST0495,53.0,Female,Jacket,Clothing,173.63,Miami  ,L,Blue,Summer,3.0,No,Express,No,No,3.0,Credit Card,Monthly
+CUST0496,41.0,Male,Shoes,Footwear,137.52,New York,L,Black,Winter,4.0,No,Standard,Yes,Yes,4.0,Debit Card,Monthly
+CUST0497,22.0,Male,Shoes,Footwear,146.56,Houston  ,XL,Red,Summer,4.0,Yes,Same-Day,,Yes,4.0,Credit Card,Monthly
+CUST0498,32.0,Male,Shirt,Clothing,303.22,Chicago,L,Yellow,Summer,5.0,No,Express,No,Yes,4.0,PayPal,Monthly
+CUST0499,24.0,Female,Pants,Clothing,59.07,New York,S,Green,Spring,3.0,No,Express,Yes,No,4.0,Debit Card,Weekly
+CUST0500,18.0,Male,Dress,Clothing,235.16,Los Angeles,L,Blue,Spring,4.0,No,Standard,Yes,Yes,6.0,Apple Pay,Monthly
+CUST0262,34.0,Female,Dress,Clothing,68.89,Los Angeles,L,Blue,Winter,4.0,Yes,Standard,Yes,No,1.0,Debit Card,Fortnightly
+CUST0226,48.0,Male,Bag,Accessories,156.51,New York,M,Green,Spring,2.0,No,Standard,Yes,No,7.0,Google Pay,Weekly
+CUST0103,30.0,Male,Bag,Accessories,243.47,New York,S,White,Fall,4.0,No,Express,No,No,4.0,PayPal,Monthly
+CUST0076,44.0,Female,Pants,Clothing,,Houston  ,XL,Red,Summer,3.0,Yes,Standard,Yes,No,1.0,Google Pay,Fortnightly
+CUST0023,35.0,Female,Bag,Accessories,40.99,Houston,L,Blue,Winter,3.0,Yes,Express,Yes,Yes,8.0,Google Pay,Fortnightly
+CUST0118,20.0,Female,Pants,Clothing,285.34,Chicago,XL,Blue,Summer,4.0,No,Same-Day,No,No,0.0,Credit Card,Monthly
+CUST0209,41.0,Male,Pants,Clothing,153.13,Los Angeles,XL,Green,Spring,4.0,No,Standard,Yes,Yes,6.0,PayPal,Weekly
+CUST0002,33.0,Female,Pants,Clothing,214.51,Houston,XL,Black,Spring,3.0,No,Same-Day,No,No,0.0,Apple Pay,Monthly
+CUST0133,22.0,Female,Shoes,Footwear,105.65,Los Angeles,XL,Blue,Spring,3.0,No,Express,Yes,No,6.0,Apple Pay,Fortnightly
+CUST0039,19.0,Female,Pants,Clothing,104.29,Miami,M,Yellow,Summer,4.0,Yes,Express,Yes,Yes,8.0,Credit Card,Weekly
+CUST0136,53.0,Male,Dress,Clothing,181.81,Houston,S,Black,Winter,4.0,Yes,Same-Day,Yes,No,0.0,Google Pay,Fortnightly
+CUST0249,56.0,Male,Bag,Accessories,221.17,Los Angeles,XL,White,Spring,3.0,Yes,Express,Yes,Yes,5.0,PayPal,Weekly
+CUST0290,27.0,Male,Pants,Clothing,292.24,New York,M,Black,Fall,5.0,No,Express,Yes,No,4.0,Google Pay,Fortnightly
+CUST0091,36.0,Female,Pants,Clothing,382.87,Miami,M,Green,Fall,4.0,No,Standard,Yes,Yes,6.0,Apple Pay,Fortnightly
+CUST0193,,Female,Shoes,Footwear,141.64,Chicago,M,Black,Fall,4.0,Yes,Express,Yes,No,7.0,Credit Card,Monthly
+CUST0348,18.0,Male,Pants,Clothing,152.94,Houston,XL,Red,Spring,3.0,No,Express,Yes,No,7.0,Credit Card,Fortnightly
+,34.0,Male,Shoes,Footwear,127.63,Houston,S,White,Winter,4.0,Yes,Standard,,Yes,5.0,PayPal,Fortnightly
+CUST0127,23.0,Female,Shirt,Clothing,28.62,Houston,S,Green,Spring,5.0,No,Standard,No,No,0.0,PayPal,Weekly
+CUST0201,39.0,Male,Pants,Clothing,250.36,Los Angeles,XL,Black,Fall,4.0,No,Express,Yes,Yes,9.0,Credit Card,Weekly
+CUST0410,41.0,Female,Shirt,Clothing,204.76,Chicago,XL,Yellow,Summer,3.0,No,Same-Day,No,No,5.0,Debit Card,Fortnightly
+CUST0043,33.0,Female,Pants,,114.67,Chicago,M,Red,Spring,4.0,No,Express,No,Yes,5.0,Debit Card,Fortnightly
+CUST0323,25.0,Male,Bag,Accessories,125.49,Houston,L,Red,Winter,1.0,Yes,Same-Day,No,Yes,0.0,Credit Card,Monthly
+CUST0206,23.0,Male,Bag,Accessories,233.4,Houston,S,Yellow,Winter,4.0,No,Express,Yes,No,9.0,Credit Card,Weekly
+CUST0399,33.0,Female,Dress,Clothing,92.27,Chicago,L,Yellow,Summer,Five,Yes,Same-Day,No,Yes,0.0,Apple Pay,Fortnightly
+CUST0385,25.0,Male,Bag,Accessories,204.43,Los Angeles,XL,Green,Summer,3.0,Yes,Same-Day,No,No,7.0,Debit Card,Weekly
