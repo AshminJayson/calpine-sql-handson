@@ -14,3 +14,10 @@ melted_df = df.melt(
 
 print("\nMelted DataFrame:")
 print(melted_df)
+
+
+array = [['Ashmin', 12, 'A', 45.6],
+         ['John', 14, 'B', 67.8]]
+
+dataframe = [['Ashmin', 'John'], [12, 14], ['A', 'B'], [45.6, 67.8]]
+# numpy array
