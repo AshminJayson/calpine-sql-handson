@@ -7,7 +7,7 @@ available_flights = [
     {"from": "New York", "to": "Los Angeles"},
     {"from": "San Francisco", "to": "Chicago"},
     {"from": "Miami", "to": "Seattle"},
-    {"from": "Los Angeles", "to": "New York"},
+    {"from": "Los Angeles", "to": "Texas"},
     {"from": "Boston", "to": "San Francisco"},
 ]
 
@@ -42,7 +42,7 @@ tools = [
     {
         "type": "function",
         "name": "book_flight",
-        "description": "Book a flight from one city to another on a specific date.",
+        "description": "Book a flight from one city to another on a specific date, ensure that the flight is available before booking.",
         "parameters": {
             "type": "object",
             "properties": {
